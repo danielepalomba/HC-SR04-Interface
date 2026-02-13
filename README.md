@@ -14,7 +14,7 @@ A streamlined web-based interface for visualizing HC-SR04 ultrasonic sensor data
 
 1. **Navigate to project folder**:
 ```bash
-cd /radar
+cd radar
 
 ```
 
